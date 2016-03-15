@@ -7,6 +7,7 @@
 #armortable td {
 	font-size: 14px;
 	font-family: '\5FAE\8F6F\96C5\9ED1','Arial';
+	padding: 5px;
 }
 .armorname {
 	text-align:right;
